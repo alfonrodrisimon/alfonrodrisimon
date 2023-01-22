@@ -7,3 +7,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfonrodrisimon&show_icons=true&theme=radical)
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alfonrodrisimon)
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green) 
